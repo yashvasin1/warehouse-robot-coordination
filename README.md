@@ -64,8 +64,8 @@ The system combines multi-hop mesh communication, task bidding, path planning, t
                                  ▼
                     ┌─────────────────────────┐
                     │    Mesh Communication   │
-
-
+                    │      Between Robots     │
+                    └─────────────────────────┘
 ## Demo
 
 ### Multi-Robot Warehouse Simulation
@@ -73,5 +73,5 @@ The system combines multi-hop mesh communication, task bidding, path planning, t
 The system coordinates multiple robots in a warehouse environment using decentralized communication, task assignment, path planning, reservation, and conflict resolution.
 
 ![Warehouse Robot Coordination Demo](screenshots/Screenshot%202026-09-11%20213701.png)
-                    │      Between Robots     │
-                    └─────────────────────────┘
+                    
+                    
